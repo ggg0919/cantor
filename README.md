@@ -1,5 +1,7 @@
-# Cantor<img src="images/icon.png" width="5%">: Inspiring Multimodal Chain-of-Thought of MLLM
-[Project Home](https://ggg0919.github.io/cantor/)
+## Cantor<img src="images/icon.png" width="3%">: Inspiring Multimodal Chain-of-Thought of MLLM
+
+**[Project Page](https://ggg0919.github.io/cantor/)** | **[Paper]()**
+
 <!-- <p align="center">
   <a href="https://ggg0919.github.io/cantor/">Project Home</a>
 </p> -->
@@ -41,3 +43,12 @@ Please consider citing our paper if you think our codes, data, or models are use
 ```
 
 ``` -->
+## Cases
+<p align="center" width="60%">
+<a ><img src="images/case1.png" alt="overview" style="width: 70%; min-width: 300px; display: block; margin: auto;"></a>
+</p>
+
+## Citation
+```
+
+```
