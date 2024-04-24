@@ -16,7 +16,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument('--decision_path', type=str, default='./data/decision.json')
 parser.add_argument('--image_path', type=str, default='./images/image.png')
 parser.add_argument('--query', type=str, default="Which month is the hottest on average in Detroit?")
-parser.add_argument('--api_key', type=str, default='AIzaSyDYSS7EfybZmG_jhsUyGmgBdqtGvXwBA88')
+parser.add_argument('--api_key', type=str, default='')
 args = parser.parse_args()
 
 if not os.path.exists(args.decision_path):
