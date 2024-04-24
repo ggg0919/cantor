@@ -1,4 +1,4 @@
-# Cantor<img src="images/icon.png" width="4%">: Inspiring Multimodal Chain-of-Thought of MLLM
+# Cantor<img src="images/icon.png" width="5%">: Inspiring Multimodal Chain-of-Thought of MLLM
 
 <!-- [Read our arXiv Paper]() -->
 
@@ -12,8 +12,8 @@ We propose an inspiring multimodal CoT framework named Cantor, which features a 
 ## Getting Started
 **1. Installation**
 
-Git clone our repository and creating conda environment:
-```bash
+Git clone our repository and creating Gemini environment:
+```
 git clone https://github.com/ggg0919/cantor
 cd cantor
 pip install -q -U google-generativeai
