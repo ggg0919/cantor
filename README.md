@@ -50,5 +50,10 @@ Please consider citing our paper if you think our codes, data, or models are use
 
 ## Citation
 ```
-
+@article{gao2024cantor,
+  title={Cantor: Inspiring Multimodal Chain-of-Thought of MLLM},
+  author={Gao, Timin and Chen, Peixian and Zhang, Mengdan and Fu, Chaoyou and Shen, Yunhang and Zhang, Yan and Zhang, Shengchuan and Zheng, Xiawu and Sun, Xing and Cao, Liujuan and Ji, Rongrong},
+  journal={arXiv preprint arXiv:2404.16033},
+  year={2024}
+}
 ```
