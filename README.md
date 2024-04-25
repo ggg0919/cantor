@@ -1,6 +1,6 @@
 ## Cantor<img src="images/icon.png" width="3%">: Inspiring Multimodal Chain-of-Thought of MLLM
 
-**[Project Page](https://ggg0919.github.io/cantor/)** | **[Paper]()**
+**[Project Page](https://ggg0919.github.io/cantor/)** | **[Paper](https://arxiv.org/abs/2404.16033)**
 
 <!-- <p align="center">
   <a href="https://ggg0919.github.io/cantor/">Project Home</a>
